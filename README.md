@@ -1,6 +1,6 @@
 👋 Hi, I’m Amal VK.
 
-👀 I’m interested in web development.
+👀 Passionate about creating and building things.
 
 🌱 I’m currently working in web development.
 
